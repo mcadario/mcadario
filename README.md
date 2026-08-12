@@ -1,21 +1,31 @@
 # Michele Cadario
 
+**Systems · ML · From first principles**
+
 I like understanding systems from the inside out, usually by building them.
 
-Interested in:
+## Interests
 
-* systems programming and low-level software
-* neural networks, representation learning, and NLP
-* agent memory and architectures
-* implementing abstractions from first principles
+`Systems programming` `neural networks` `representation learning` `NLP` `agent memory` `low-level implementations`
 
-Currently working mostly in C and Python.
+## Projects
 
-Some projects:
+### [cnlp](https://github.com/mcadario/cnlp)
 
-* **cnlp** — NLP in C from scratch: memory management, data structures, linear algebra, tokenization, and word2vec
-* **msk** — experimental memory architecture for software agents
-* **BAINSA Social Media Manager** — automated AI research and content pipeline with human review
-* **NASA NEO Challenge** — full-stack system with FastAPI, Redis caching, streaming, and Next.js
+NLP in C from scratch — memory management, data structures, linear algebra, tokenization, and word2vec.
 
-Most of my repositories are experiments: I build things to figure out how they work.
+### [msk](https://github.com/mcadario/msk)
+
+Experimental memory architecture for software agents.
+
+### [BAINSA Social Media Manager](https://github.com/mcadario/BAINSA-Social-Media-Manager)
+
+Automated AI research and content pipeline with human review.
+
+### [NASA NEO Challenge](https://github.com/mcadario/nasa-neo-challenge)
+
+Full-stack system with FastAPI, Redis caching, streaming, and Next.js.
+
+---
+
+Most of my repositories are experiments. I build things to figure out how they work.
