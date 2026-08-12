@@ -1,16 +1,21 @@
-## Hi there 👋
+# Michele Cadario
 
-<!--
-**mcadario/mcadario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like understanding systems from the inside out, usually by building them.
 
-Here are some ideas to get you started:
+Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* systems programming and low-level software
+* neural networks, representation learning, and NLP
+* agent memory and architectures
+* implementing abstractions from first principles
+
+Currently working mostly in C and Python.
+
+Some projects:
+
+* **cnlp** — NLP in C from scratch: memory management, data structures, linear algebra, tokenization, and word2vec
+* **msk** — experimental memory architecture for software agents
+* **BAINSA Social Media Manager** — automated AI research and content pipeline with human review
+* **NASA NEO Challenge** — full-stack system with FastAPI, Redis caching, streaming, and Next.js
+
+Most of my repositories are experiments: I build things to figure out how they work.
