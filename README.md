@@ -4,17 +4,13 @@
 
 I like understanding systems from the inside out, usually by building them.
 
-## Interests
-
-`Systems programming` `neural networks` `representation learning` `NLP` `agent memory` `low-level implementations`
-
 ## Projects
 
 ### [cnlp](https://github.com/mcadario/cnlp)
 
 NLP in C from scratch — memory management, data structures, linear algebra, tokenization, and word2vec.
 
-### [msk](https://github.com/mcadario/msk)
+### [msk](https://github.com/mcadario/msk) (private)
 
 Experimental memory architecture for software agents.
 
